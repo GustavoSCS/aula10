@@ -1,0 +1,30 @@
+#inicio{
+width: 400px;
+height: 200px;
+background-color: azure;
+margin-top: 30px;
+margin-bottom: 40px;
+border: 10px solid black;
+
+}
+
+
+#meio{
+    width: 400px;
+    height: 200px;
+    background-color: rgb(245, 240, 255);
+    margin-top: 30px;
+margin-bottom: 40px;
+    
+    }
+
+
+    #fim{
+        width: 400px;
+        height: 200px;
+        background-color: rgb(51, 12, 129);
+
+        margin-top: 30px;
+margin-bottom: 40px;
+        
+        }
